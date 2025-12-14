@@ -4,1903 +4,1903 @@
       "id": 1,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(0, 1280, 640, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(0, 1280, 640, 1920).jpg"
     },
     {
       "id": 2,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(0, 640, 640, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(0, 640, 640, 1280).jpg"
     },
     {
       "id": 3,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 46720, 10880, 47360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 46720, 10880, 47360).jpg"
     },
     {
       "id": 4,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 47360, 10880, 48000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 47360, 10880, 48000).jpg"
     },
     {
       "id": 5,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 48000, 10880, 48640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 48000, 10880, 48640).jpg"
     },
     {
       "id": 6,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 48640, 10880, 49280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 48640, 10880, 49280).jpg"
     },
     {
       "id": 7,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 49280, 10880, 49920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 49280, 10880, 49920).jpg"
     },
     {
       "id": 8,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 7680, 10880, 8320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 7680, 10880, 8320).jpg"
     },
     {
       "id": 9,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 8320, 10880, 8960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10240, 8320, 10880, 8960).jpg"
     },
     {
       "id": 10,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 48000, 11520, 48640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 48000, 11520, 48640).jpg"
     },
     {
       "id": 11,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 48640, 11520, 49280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 48640, 11520, 49280).jpg"
     },
     {
       "id": 12,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 49280, 11520, 49920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 49280, 11520, 49920).jpg"
     },
     {
       "id": 13,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 49920, 11520, 50560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 49920, 11520, 50560).jpg"
     },
     {
       "id": 14,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 50560, 11520, 51200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(10880, 50560, 11520, 51200).jpg"
     },
     {
       "id": 15,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 49280, 12160, 49920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 49280, 12160, 49920).jpg"
     },
     {
       "id": 16,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 49920, 12160, 50560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 49920, 12160, 50560).jpg"
     },
     {
       "id": 17,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 50560, 12160, 51200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 50560, 12160, 51200).jpg"
     },
     {
       "id": 18,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 51200, 12160, 51840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 51200, 12160, 51840).jpg"
     },
     {
       "id": 19,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 51840, 12160, 52480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(11520, 51840, 12160, 52480).jpg"
     },
     {
       "id": 20,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 50560, 12800, 51200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 50560, 12800, 51200).jpg"
     },
     {
       "id": 21,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 51200, 12800, 51840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 51200, 12800, 51840).jpg"
     },
     {
       "id": 22,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 51840, 12800, 52480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 51840, 12800, 52480).jpg"
     },
     {
       "id": 23,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 52480, 12800, 53120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 52480, 12800, 53120).jpg"
     },
     {
       "id": 24,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 53120, 12800, 53760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12160, 53120, 12800, 53760).jpg"
     },
     {
       "id": 25,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1280, 0, 1920, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1280, 0, 1920, 640).jpg"
     },
     {
       "id": 26,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1280, 640, 1920, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1280, 640, 1920, 1280).jpg"
     },
     {
       "id": 27,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 52480, 13440, 53120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 52480, 13440, 53120).jpg"
     },
     {
       "id": 28,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 53120, 13440, 53760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 53120, 13440, 53760).jpg"
     },
     {
       "id": 29,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 53760, 13440, 54400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(12800, 53760, 13440, 54400).jpg"
     },
     {
       "id": 30,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(13440, 53120, 14080, 53760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(13440, 53120, 14080, 53760).jpg"
     },
     {
       "id": 31,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(13440, 53760, 14080, 54400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(13440, 53760, 14080, 54400).jpg"
     },
     {
       "id": 32,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 53120, 14720, 53760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 53120, 14720, 53760).jpg"
     },
     {
       "id": 33,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 53760, 14720, 54400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 53760, 14720, 54400).jpg"
     },
     {
       "id": 34,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 54400, 14720, 55040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14080, 54400, 14720, 55040).jpg"
     },
     {
       "id": 35,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 53760, 15360, 54400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 53760, 15360, 54400).jpg"
     },
     {
       "id": 36,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 54400, 15360, 55040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 54400, 15360, 55040).jpg"
     },
     {
       "id": 37,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 55040, 15360, 55680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(14720, 55040, 15360, 55680).jpg"
     },
     {
       "id": 38,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 54400, 16000, 55040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 54400, 16000, 55040).jpg"
     },
     {
       "id": 39,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 55040, 16000, 55680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 55040, 16000, 55680).jpg"
     },
     {
       "id": 40,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 55680, 16000, 56320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(15360, 55680, 16000, 56320).jpg"
     },
     {
       "id": 41,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 54400, 16640, 55040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 54400, 16640, 55040).jpg"
     },
     {
       "id": 42,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 55040, 16640, 55680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 55040, 16640, 55680).jpg"
     },
     {
       "id": 43,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 55680, 16640, 56320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 55680, 16640, 56320).jpg"
     },
     {
       "id": 44,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 56320, 16640, 56960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16000, 56320, 16640, 56960).jpg"
     },
     {
       "id": 45,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 55040, 17280, 55680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 55040, 17280, 55680).jpg"
     },
     {
       "id": 46,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 55680, 17280, 56320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 55680, 17280, 56320).jpg"
     },
     {
       "id": 47,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 56320, 17280, 56960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 56320, 17280, 56960).jpg"
     },
     {
       "id": 48,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 56960, 17280, 57600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(16640, 56960, 17280, 57600).jpg"
     },
     {
       "id": 49,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 56320, 17920, 56960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 56320, 17920, 56960).jpg"
     },
     {
       "id": 50,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 56960, 17920, 57600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 56960, 17920, 57600).jpg"
     },
     {
       "id": 51,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 57600, 17920, 58240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 57600, 17920, 58240).jpg"
     },
     {
       "id": 52,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 58240, 17920, 58880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 58240, 17920, 58880).jpg"
     },
     {
       "id": 53,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 58880, 17920, 59520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 58880, 17920, 59520).jpg"
     },
     {
       "id": 54,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 59520, 17920, 60160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 59520, 17920, 60160).jpg"
     },
     {
       "id": 55,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 60160, 17920, 60800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 60160, 17920, 60800).jpg"
     },
     {
       "id": 56,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 60800, 17920, 61440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17280, 60800, 17920, 61440).jpg"
     },
     {
       "id": 57,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 56960, 18560, 57600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 56960, 18560, 57600).jpg"
     },
     {
       "id": 58,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 57600, 18560, 58240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 57600, 18560, 58240).jpg"
     },
     {
       "id": 59,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 58240, 18560, 58880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 58240, 18560, 58880).jpg"
     },
     {
       "id": 60,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 58880, 18560, 59520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 58880, 18560, 59520).jpg"
     },
     {
       "id": 61,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 59520, 18560, 60160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 59520, 18560, 60160).jpg"
     },
     {
       "id": 62,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 60160, 18560, 60800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 60160, 18560, 60800).jpg"
     },
     {
       "id": 63,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 60800, 18560, 61440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 60800, 18560, 61440).jpg"
     },
     {
       "id": 64,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 61440, 18560, 62080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 61440, 18560, 62080).jpg"
     },
     {
       "id": 65,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 62080, 18560, 62720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(17920, 62080, 18560, 62720).jpg"
     },
     {
       "id": 66,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 60800, 19200, 61440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 60800, 19200, 61440).jpg"
     },
     {
       "id": 67,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 61440, 19200, 62080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 61440, 19200, 62080).jpg"
     },
     {
       "id": 68,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 62080, 19200, 62720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(18560, 62080, 19200, 62720).jpg"
     },
     {
       "id": 69,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1920, 0, 2560, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1920, 0, 2560, 640).jpg"
     },
     {
       "id": 70,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1920, 640, 2560, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(1920, 640, 2560, 1280).jpg"
     },
     {
       "id": 71,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 61440, 19840, 62080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 61440, 19840, 62080).jpg"
     },
     {
       "id": 72,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 62080, 19840, 62720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 62080, 19840, 62720).jpg"
     },
     {
       "id": 73,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 62720, 19840, 63360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19200, 62720, 19840, 63360).jpg"
     },
     {
       "id": 74,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19840, 62080, 20480, 62720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19840, 62080, 20480, 62720).jpg"
     },
     {
       "id": 75,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19840, 62720, 20480, 63360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(19840, 62720, 20480, 63360).jpg"
     },
     {
       "id": 76,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 62080, 21120, 62720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 62080, 21120, 62720).jpg"
     },
     {
       "id": 77,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 62720, 21120, 63360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 62720, 21120, 63360).jpg"
     },
     {
       "id": 78,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 63360, 21120, 64000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(20480, 63360, 21120, 64000).jpg"
     },
     {
       "id": 79,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21120, 62720, 21760, 63360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21120, 62720, 21760, 63360).jpg"
     },
     {
       "id": 80,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21120, 63360, 21760, 64000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21120, 63360, 21760, 64000).jpg"
     },
     {
       "id": 81,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 62720, 22400, 63360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 62720, 22400, 63360).jpg"
     },
     {
       "id": 82,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 63360, 22400, 64000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 63360, 22400, 64000).jpg"
     },
     {
       "id": 83,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 64000, 22400, 64640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 64000, 22400, 64640).jpg"
     },
     {
       "id": 84,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 64640, 22400, 65280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(21760, 64640, 22400, 65280).jpg"
     },
     {
       "id": 85,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 63360, 23040, 64000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 63360, 23040, 64000).jpg"
     },
     {
       "id": 86,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 64000, 23040, 64640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 64000, 23040, 64640).jpg"
     },
     {
       "id": 87,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 64640, 23040, 65280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 64640, 23040, 65280).jpg"
     },
     {
       "id": 88,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 65280, 23040, 65920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 65280, 23040, 65920).jpg"
     },
     {
       "id": 89,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 65920, 23040, 66560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(22400, 65920, 23040, 66560).jpg"
     },
     {
       "id": 90,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 64000, 23680, 64640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 64000, 23680, 64640).jpg"
     },
     {
       "id": 91,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 64640, 23680, 65280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 64640, 23680, 65280).jpg"
     },
     {
       "id": 92,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 65280, 23680, 65920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 65280, 23680, 65920).jpg"
     },
     {
       "id": 93,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 65920, 23680, 66560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 65920, 23680, 66560).jpg"
     },
     {
       "id": 94,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 66560, 23680, 67200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 66560, 23680, 67200).jpg"
     },
     {
       "id": 95,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 67200, 23680, 67840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23040, 67200, 23680, 67840).jpg"
     },
     {
       "id": 96,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 65920, 24320, 66560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 65920, 24320, 66560).jpg"
     },
     {
       "id": 97,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 66560, 24320, 67200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 66560, 24320, 67200).jpg"
     },
     {
       "id": 98,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 67200, 24320, 67840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 67200, 24320, 67840).jpg"
     },
     {
       "id": 99,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 67840, 24320, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(23680, 67840, 24320, 68480).jpg"
     },
     {
       "id": 100,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 66560, 24960, 67200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 66560, 24960, 67200).jpg"
     },
     {
       "id": 101,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 67200, 24960, 67840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 67200, 24960, 67840).jpg"
     },
     {
       "id": 102,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 67840, 24960, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 67840, 24960, 68480).jpg"
     },
     {
       "id": 103,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 68480, 24960, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24320, 68480, 24960, 69120).jpg"
     },
     {
       "id": 104,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24960, 67840, 25600, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24960, 67840, 25600, 68480).jpg"
     },
     {
       "id": 105,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24960, 68480, 25600, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(24960, 68480, 25600, 69120).jpg"
     },
     {
       "id": 106,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(2560, 0, 3200, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(2560, 0, 3200, 640).jpg"
     },
     {
       "id": 107,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(2560, 640, 3200, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(2560, 640, 3200, 1280).jpg"
     },
     {
       "id": 108,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(25600, 67840, 26240, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(25600, 67840, 26240, 68480).jpg"
     },
     {
       "id": 109,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(25600, 68480, 26240, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(25600, 68480, 26240, 69120).jpg"
     },
     {
       "id": 110,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26240, 67840, 26880, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26240, 67840, 26880, 68480).jpg"
     },
     {
       "id": 111,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26240, 68480, 26880, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26240, 68480, 26880, 69120).jpg"
     },
     {
       "id": 112,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 67840, 27520, 68480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 67840, 27520, 68480).jpg"
     },
     {
       "id": 113,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 68480, 27520, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 68480, 27520, 69120).jpg"
     },
     {
       "id": 114,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 69120, 27520, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(26880, 69120, 27520, 69760).jpg"
     },
     {
       "id": 115,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(27520, 68480, 28160, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(27520, 68480, 28160, 69120).jpg"
     },
     {
       "id": 116,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(27520, 69120, 28160, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(27520, 69120, 28160, 69760).jpg"
     },
     {
       "id": 117,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 68480, 28800, 69120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 68480, 28800, 69120).jpg"
     },
     {
       "id": 118,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 69120, 28800, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 69120, 28800, 69760).jpg"
     },
     {
       "id": 119,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 69760, 28800, 70400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28160, 69760, 28800, 70400).jpg"
     },
     {
       "id": 120,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28800, 69120, 29440, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28800, 69120, 29440, 69760).jpg"
     },
     {
       "id": 121,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28800, 69760, 29440, 70400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(28800, 69760, 29440, 70400).jpg"
     },
     {
       "id": 122,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(29440, 69120, 30080, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(29440, 69120, 30080, 69760).jpg"
     },
     {
       "id": 123,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(29440, 69760, 30080, 70400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(29440, 69760, 30080, 70400).jpg"
     },
     {
       "id": 124,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 69120, 30720, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 69120, 30720, 69760).jpg"
     },
     {
       "id": 125,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 69760, 30720, 70400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 69760, 30720, 70400).jpg"
     },
     {
       "id": 126,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 70400, 30720, 71040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30080, 70400, 30720, 71040).jpg"
     },
     {
       "id": 127,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 69120, 31360, 69760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 69120, 31360, 69760).jpg"
     },
     {
       "id": 128,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 69760, 31360, 70400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 69760, 31360, 70400).jpg"
     },
     {
       "id": 129,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 70400, 31360, 71040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(30720, 70400, 31360, 71040).jpg"
     },
     {
       "id": 130,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(31360, 70400, 32000, 71040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(31360, 70400, 32000, 71040).jpg"
     },
     {
       "id": 131,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 0, 3840, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 0, 3840, 640).jpg"
     },
     {
       "id": 132,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 30080, 3840, 30720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 30080, 3840, 30720).jpg"
     },
     {
       "id": 133,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 30720, 3840, 31360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 30720, 3840, 31360).jpg"
     },
     {
       "id": 134,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 640, 3840, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3200, 640, 3840, 1280).jpg"
     },
     {
       "id": 135,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 0, 4480, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 0, 4480, 640).jpg"
     },
     {
       "id": 136,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 29440, 4480, 30080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 29440, 4480, 30080).jpg"
     },
     {
       "id": 137,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 30080, 4480, 30720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 30080, 4480, 30720).jpg"
     },
     {
       "id": 138,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 30720, 4480, 31360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 30720, 4480, 31360).jpg"
     },
     {
       "id": 139,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 31360, 4480, 32000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 31360, 4480, 32000).jpg"
     },
     {
       "id": 140,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 32000, 4480, 32640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 32000, 4480, 32640).jpg"
     },
     {
       "id": 141,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 32640, 4480, 33280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 32640, 4480, 33280).jpg"
     },
     {
       "id": 142,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 33280, 4480, 33920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 33280, 4480, 33920).jpg"
     },
     {
       "id": 143,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 33920, 4480, 34560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 33920, 4480, 34560).jpg"
     },
     {
       "id": 144,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 34560, 4480, 35200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 34560, 4480, 35200).jpg"
     },
     {
       "id": 145,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 35200, 4480, 35840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 35200, 4480, 35840).jpg"
     },
     {
       "id": 146,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 35840, 4480, 36480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 35840, 4480, 36480).jpg"
     },
     {
       "id": 147,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 36480, 4480, 37120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 36480, 4480, 37120).jpg"
     },
     {
       "id": 148,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 640, 4480, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(3840, 640, 4480, 1280).jpg"
     },
     {
       "id": 149,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 0, 5120, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 0, 5120, 640).jpg"
     },
     {
       "id": 150,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 27520, 5120, 28160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 27520, 5120, 28160).jpg"
     },
     {
       "id": 151,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 28160, 5120, 28800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 28160, 5120, 28800).jpg"
     },
     {
       "id": 152,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 28800, 5120, 29440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 28800, 5120, 29440).jpg"
     },
     {
       "id": 153,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 29440, 5120, 30080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 29440, 5120, 30080).jpg"
     },
     {
       "id": 154,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 30080, 5120, 30720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 30080, 5120, 30720).jpg"
     },
     {
       "id": 155,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 30720, 5120, 31360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 30720, 5120, 31360).jpg"
     },
     {
       "id": 156,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 31360, 5120, 32000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 31360, 5120, 32000).jpg"
     },
     {
       "id": 157,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 32000, 5120, 32640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 32000, 5120, 32640).jpg"
     },
     {
       "id": 158,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 32640, 5120, 33280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 32640, 5120, 33280).jpg"
     },
     {
       "id": 159,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 33280, 5120, 33920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 33280, 5120, 33920).jpg"
     },
     {
       "id": 160,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 33920, 5120, 34560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 33920, 5120, 34560).jpg"
     },
     {
       "id": 161,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 34560, 5120, 35200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 34560, 5120, 35200).jpg"
     },
     {
       "id": 162,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 35200, 5120, 35840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 35200, 5120, 35840).jpg"
     },
     {
       "id": 163,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 35840, 5120, 36480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 35840, 5120, 36480).jpg"
     },
     {
       "id": 164,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 36480, 5120, 37120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 36480, 5120, 37120).jpg"
     },
     {
       "id": 165,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 37120, 5120, 37760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 37120, 5120, 37760).jpg"
     },
     {
       "id": 166,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 37760, 5120, 38400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 37760, 5120, 38400).jpg"
     },
     {
       "id": 167,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 38400, 5120, 39040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 38400, 5120, 39040).jpg"
     },
     {
       "id": 168,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 39040, 5120, 39680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 39040, 5120, 39680).jpg"
     },
     {
       "id": 169,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 39680, 5120, 40320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 39680, 5120, 40320).jpg"
     },
     {
       "id": 170,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 640, 5120, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(4480, 640, 5120, 1280).jpg"
     },
     {
       "id": 171,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 0, 5760, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 0, 5760, 640).jpg"
     },
     {
       "id": 172,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 1280, 5760, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 1280, 5760, 1920).jpg"
     },
     {
       "id": 173,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 25600, 5760, 26240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 25600, 5760, 26240).jpg"
     },
     {
       "id": 174,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 26240, 5760, 26880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 26240, 5760, 26880).jpg"
     },
     {
       "id": 175,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 26880, 5760, 27520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 26880, 5760, 27520).jpg"
     },
     {
       "id": 176,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 27520, 5760, 28160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 27520, 5760, 28160).jpg"
     },
     {
       "id": 177,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 28160, 5760, 28800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 28160, 5760, 28800).jpg"
     },
     {
       "id": 178,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 28800, 5760, 29440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 28800, 5760, 29440).jpg"
     },
     {
       "id": 179,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 29440, 5760, 30080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 29440, 5760, 30080).jpg"
     },
     {
       "id": 180,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 38400, 5760, 39040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 38400, 5760, 39040).jpg"
     },
     {
       "id": 181,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 39040, 5760, 39680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 39040, 5760, 39680).jpg"
     },
     {
       "id": 182,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 39680, 5760, 40320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 39680, 5760, 40320).jpg"
     },
     {
       "id": 183,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 40320, 5760, 40960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 40320, 5760, 40960).jpg"
     },
     {
       "id": 184,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 40960, 5760, 41600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 40960, 5760, 41600).jpg"
     },
     {
       "id": 185,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 640, 5760, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5120, 640, 5760, 1280).jpg"
     },
     {
       "id": 186,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 1280, 6400, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 1280, 6400, 1920).jpg"
     },
     {
       "id": 187,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 17280, 6400, 17920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 17280, 6400, 17920).jpg"
     },
     {
       "id": 188,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 17920, 6400, 18560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 17920, 6400, 18560).jpg"
     },
     {
       "id": 189,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 18560, 6400, 19200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 18560, 6400, 19200).jpg"
     },
     {
       "id": 190,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 1920, 6400, 2560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 1920, 6400, 2560).jpg"
     },
     {
       "id": 191,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 19200, 6400, 19840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 19200, 6400, 19840).jpg"
     },
     {
       "id": 192,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 19840, 6400, 20480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 19840, 6400, 20480).jpg"
     },
     {
       "id": 193,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 20480, 6400, 21120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 20480, 6400, 21120).jpg"
     },
     {
       "id": 194,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 23040, 6400, 23680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 23040, 6400, 23680).jpg"
     },
     {
       "id": 195,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 23680, 6400, 24320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 23680, 6400, 24320).jpg"
     },
     {
       "id": 196,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 24320, 6400, 24960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 24320, 6400, 24960).jpg"
     },
     {
       "id": 197,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 24960, 6400, 25600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 24960, 6400, 25600).jpg"
     },
     {
       "id": 198,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 25600, 6400, 26240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 25600, 6400, 26240).jpg"
     },
     {
       "id": 199,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 26240, 6400, 26880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 26240, 6400, 26880).jpg"
     },
     {
       "id": 200,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 26880, 6400, 27520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 26880, 6400, 27520).jpg"
     },
     {
       "id": 201,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 27520, 6400, 28160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 27520, 6400, 28160).jpg"
     },
     {
       "id": 202,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 39680, 6400, 40320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 39680, 6400, 40320).jpg"
     },
     {
       "id": 203,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 40320, 6400, 40960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 40320, 6400, 40960).jpg"
     },
     {
       "id": 204,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 40960, 6400, 41600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 40960, 6400, 41600).jpg"
     },
     {
       "id": 205,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 41600, 6400, 42240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 41600, 6400, 42240).jpg"
     },
     {
       "id": 206,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 640, 6400, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(5760, 640, 6400, 1280).jpg"
     },
     {
       "id": 207,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 0, 1280, 640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 0, 1280, 640).jpg"
     },
     {
       "id": 208,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 1280, 1280, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 1280, 1280, 1920).jpg"
     },
     {
       "id": 209,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 640, 1280, 1280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(640, 640, 1280, 1280).jpg"
     },
     {
       "id": 210,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 1280, 7040, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 1280, 7040, 1920).jpg"
     },
     {
       "id": 211,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 15360, 7040, 16000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 15360, 7040, 16000).jpg"
     },
     {
       "id": 212,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 16000, 7040, 16640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 16000, 7040, 16640).jpg"
     },
     {
       "id": 213,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 16640, 7040, 17280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 16640, 7040, 17280).jpg"
     },
     {
       "id": 214,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 17280, 7040, 17920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 17280, 7040, 17920).jpg"
     },
     {
       "id": 215,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 17920, 7040, 18560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 17920, 7040, 18560).jpg"
     },
     {
       "id": 216,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 18560, 7040, 19200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 18560, 7040, 19200).jpg"
     },
     {
       "id": 217,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 1920, 7040, 2560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 1920, 7040, 2560).jpg"
     },
     {
       "id": 218,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 19200, 7040, 19840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 19200, 7040, 19840).jpg"
     },
     {
       "id": 219,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 19840, 7040, 20480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 19840, 7040, 20480).jpg"
     },
     {
       "id": 220,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 20480, 7040, 21120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 20480, 7040, 21120).jpg"
     },
     {
       "id": 221,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 21120, 7040, 21760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 21120, 7040, 21760).jpg"
     },
     {
       "id": 222,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 21760, 7040, 22400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 21760, 7040, 22400).jpg"
     },
     {
       "id": 223,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 22400, 7040, 23040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 22400, 7040, 23040).jpg"
     },
     {
       "id": 224,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 23040, 7040, 23680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 23040, 7040, 23680).jpg"
     },
     {
       "id": 225,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 23680, 7040, 24320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 23680, 7040, 24320).jpg"
     },
     {
       "id": 226,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 24320, 7040, 24960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 24320, 7040, 24960).jpg"
     },
     {
       "id": 227,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 24960, 7040, 25600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 24960, 7040, 25600).jpg"
     },
     {
       "id": 228,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 2560, 7040, 3200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 2560, 7040, 3200).jpg"
     },
     {
       "id": 229,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 25600, 7040, 26240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 25600, 7040, 26240).jpg"
     },
     {
       "id": 230,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 40960, 7040, 41600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 40960, 7040, 41600).jpg"
     },
     {
       "id": 231,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 41600, 7040, 42240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 41600, 7040, 42240).jpg"
     },
     {
       "id": 232,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 42240, 7040, 42880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 42240, 7040, 42880).jpg"
     },
     {
       "id": 233,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 42880, 7040, 43520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 42880, 7040, 43520).jpg"
     },
     {
       "id": 234,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 43520, 7040, 44160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 43520, 7040, 44160).jpg"
     },
     {
       "id": 235,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 44160, 7040, 44800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 44160, 7040, 44800).jpg"
     },
     {
       "id": 236,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 44800, 7040, 45440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(6400, 44800, 7040, 45440).jpg"
     },
     {
       "id": 237,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 1280, 7680, 1920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 1280, 7680, 1920).jpg"
     },
     {
       "id": 238,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 13440, 7680, 14080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 13440, 7680, 14080).jpg"
     },
     {
       "id": 239,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 14080, 7680, 14720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 14080, 7680, 14720).jpg"
     },
     {
       "id": 240,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 14720, 7680, 15360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 14720, 7680, 15360).jpg"
     },
     {
       "id": 241,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 15360, 7680, 16000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 15360, 7680, 16000).jpg"
     },
     {
       "id": 242,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 16000, 7680, 16640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 16000, 7680, 16640).jpg"
     },
     {
       "id": 243,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 16640, 7680, 17280).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 16640, 7680, 17280).jpg"
     },
     {
       "id": 244,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 17280, 7680, 17920).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 17280, 7680, 17920).jpg"
     },
     {
       "id": 245,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 1920, 7680, 2560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 1920, 7680, 2560).jpg"
     },
     {
       "id": 246,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 21120, 7680, 21760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 21120, 7680, 21760).jpg"
     },
     {
       "id": 247,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 21760, 7680, 22400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 21760, 7680, 22400).jpg"
     },
     {
       "id": 248,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 22400, 7680, 23040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 22400, 7680, 23040).jpg"
     },
     {
       "id": 249,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 23040, 7680, 23680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 23040, 7680, 23680).jpg"
     },
     {
       "id": 250,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 2560, 7680, 3200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 2560, 7680, 3200).jpg"
     },
     {
       "id": 251,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 3200, 7680, 3840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 3200, 7680, 3840).jpg"
     },
     {
       "id": 252,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 41600, 7680, 42240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 41600, 7680, 42240).jpg"
     },
     {
       "id": 253,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 42240, 7680, 42880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 42240, 7680, 42880).jpg"
     },
     {
       "id": 254,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 42880, 7680, 43520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 42880, 7680, 43520).jpg"
     },
     {
       "id": 255,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 43520, 7680, 44160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 43520, 7680, 44160).jpg"
     },
     {
       "id": 256,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 44160, 7680, 44800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 44160, 7680, 44800).jpg"
     },
     {
       "id": 257,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 44800, 7680, 45440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 44800, 7680, 45440).jpg"
     },
     {
       "id": 258,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 45440, 7680, 46080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7040, 45440, 7680, 46080).jpg"
     },
     {
       "id": 259,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 11520, 8320, 12160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 11520, 8320, 12160).jpg"
     },
     {
       "id": 260,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 12160, 8320, 12800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 12160, 8320, 12800).jpg"
     },
     {
       "id": 261,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 12800, 8320, 13440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 12800, 8320, 13440).jpg"
     },
     {
       "id": 262,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 13440, 8320, 14080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 13440, 8320, 14080).jpg"
     },
     {
       "id": 263,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 14080, 8320, 14720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 14080, 8320, 14720).jpg"
     },
     {
       "id": 264,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 14720, 8320, 15360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 14720, 8320, 15360).jpg"
     },
     {
       "id": 265,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 15360, 8320, 16000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 15360, 8320, 16000).jpg"
     },
     {
       "id": 266,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 1920, 8320, 2560).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 1920, 8320, 2560).jpg"
     },
     {
       "id": 267,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 2560, 8320, 3200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 2560, 8320, 3200).jpg"
     },
     {
       "id": 268,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 3200, 8320, 3840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 3200, 8320, 3840).jpg"
     },
     {
       "id": 269,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 44160, 8320, 44800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 44160, 8320, 44800).jpg"
     },
     {
       "id": 270,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 44800, 8320, 45440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 44800, 8320, 45440).jpg"
     },
     {
       "id": 271,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 45440, 8320, 46080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(7680, 45440, 8320, 46080).jpg"
     },
     {
       "id": 272,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 10880, 8960, 11520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 10880, 8960, 11520).jpg"
     },
     {
       "id": 273,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 11520, 8960, 12160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 11520, 8960, 12160).jpg"
     },
     {
       "id": 274,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 12160, 8960, 12800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 12160, 8960, 12800).jpg"
     },
     {
       "id": 275,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 12800, 8960, 13440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 12800, 8960, 13440).jpg"
     },
     {
       "id": 276,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 13440, 8960, 14080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 13440, 8960, 14080).jpg"
     },
     {
       "id": 277,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 2560, 8960, 3200).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 2560, 8960, 3200).jpg"
     },
     {
       "id": 278,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 3200, 8960, 3840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 3200, 8960, 3840).jpg"
     },
     {
       "id": 279,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 3840, 8960, 4480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 3840, 8960, 4480).jpg"
     },
     {
       "id": 280,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 44800, 8960, 45440).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 44800, 8960, 45440).jpg"
     },
     {
       "id": 281,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 45440, 8960, 46080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 45440, 8960, 46080).jpg"
     },
     {
       "id": 282,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 46080, 8960, 46720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8320, 46080, 8960, 46720).jpg"
     },
     {
       "id": 283,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 10240, 9600, 10880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 10240, 9600, 10880).jpg"
     },
     {
       "id": 284,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 10880, 9600, 11520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 10880, 9600, 11520).jpg"
     },
     {
       "id": 285,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 11520, 9600, 12160).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 11520, 9600, 12160).jpg"
     },
     {
       "id": 286,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 12160, 9600, 12800).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 12160, 9600, 12800).jpg"
     },
     {
       "id": 287,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 3200, 9600, 3840).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 3200, 9600, 3840).jpg"
     },
     {
       "id": 288,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 3840, 9600, 4480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 3840, 9600, 4480).jpg"
     },
     {
       "id": 289,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 4480, 9600, 5120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 4480, 9600, 5120).jpg"
     },
     {
       "id": 290,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 45440, 9600, 46080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 45440, 9600, 46080).jpg"
     },
     {
       "id": 291,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 46080, 9600, 46720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 46080, 9600, 46720).jpg"
     },
     {
       "id": 292,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 46720, 9600, 47360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 46720, 9600, 47360).jpg"
     },
     {
       "id": 293,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 5120, 9600, 5760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 5120, 9600, 5760).jpg"
     },
     {
       "id": 294,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 5760, 9600, 6400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 5760, 9600, 6400).jpg"
     },
     {
       "id": 295,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 6400, 9600, 7040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 6400, 9600, 7040).jpg"
     },
     {
       "id": 296,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 7040, 9600, 7680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 7040, 9600, 7680).jpg"
     },
     {
       "id": 297,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 7680, 9600, 8320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 7680, 9600, 8320).jpg"
     },
     {
       "id": 298,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 8320, 9600, 8960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 8320, 9600, 8960).jpg"
     },
     {
       "id": 299,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 8960, 9600, 9600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 8960, 9600, 9600).jpg"
     },
     {
       "id": 300,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 9600, 9600, 10240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(8960, 9600, 9600, 10240).jpg"
     },
     {
       "id": 301,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 10240, 10240, 10880).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 10240, 10240, 10880).jpg"
     },
     {
       "id": 302,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 10880, 10240, 11520).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 10880, 10240, 11520).jpg"
     },
     {
       "id": 303,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 3840, 10240, 4480).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 3840, 10240, 4480).jpg"
     },
     {
       "id": 304,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 4480, 10240, 5120).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 4480, 10240, 5120).jpg"
     },
     {
       "id": 305,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 45440, 10240, 46080).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 45440, 10240, 46080).jpg"
     },
     {
       "id": 306,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 46080, 10240, 46720).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 46080, 10240, 46720).jpg"
     },
     {
       "id": 307,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 46720, 10240, 47360).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 46720, 10240, 47360).jpg"
     },
     {
       "id": 308,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 47360, 10240, 48000).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 47360, 10240, 48000).jpg"
     },
     {
       "id": 309,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 48000, 10240, 48640).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 48000, 10240, 48640).jpg"
     },
     {
       "id": 310,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 5120, 10240, 5760).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 5120, 10240, 5760).jpg"
     },
     {
       "id": 311,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 5760, 10240, 6400).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 5760, 10240, 6400).jpg"
     },
     {
       "id": 312,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 6400, 10240, 7040).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 6400, 10240, 7040).jpg"
     },
     {
       "id": 313,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 7040, 10240, 7680).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 7040, 10240, 7680).jpg"
     },
     {
       "id": 314,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 7680, 10240, 8320).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 7680, 10240, 8320).jpg"
     },
     {
       "id": 315,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 8320, 10240, 8960).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 8320, 10240, 8960).jpg"
     },
     {
       "id": 316,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 8960, 10240, 9600).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 8960, 10240, 9600).jpg"
     },
     {
       "id": 317,
       "width": 640,
       "height": 640,
-      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 9600, 10240, 10240).npy"
+      "file_name": "./data_processed/ortho_croped/RGB/2013/ortho_RGB_2013_(9600, 9600, 10240, 10240).jpg"
     }
   ],
   "annotations": [
