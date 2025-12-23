@@ -5,4 +5,4 @@ val: images/val
 test: images/test
 
 nc: 1
-names: ['my_class']
+names: ['lit_gravier']
