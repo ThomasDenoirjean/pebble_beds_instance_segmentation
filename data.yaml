@@ -4,9 +4,5 @@ train: images/train
 val: images/val
 test: images/test
 
-train_annotations: annotations/train.json
-val_annotations: annotations/val.json
-test_annotations: annotations/test.json
-
 nc: 1
 names: ['my_class']
